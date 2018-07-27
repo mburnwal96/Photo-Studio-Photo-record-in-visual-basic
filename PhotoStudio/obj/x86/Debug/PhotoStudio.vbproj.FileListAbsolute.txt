@@ -1,0 +1,66 @@
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.pdb
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.xml
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form1.resources
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Resources.resources
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbproj.GenerateResource.Cache
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.exe
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.xml
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.pdb
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe.config
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbprojResolveAssemblyReference.cache
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form2.resources
+E:\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form3.resources
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe.config
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.exe
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.xml
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.pdb
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.pdb
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.xml
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbprojResolveAssemblyReference.cache
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form1.resources
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form2.resources
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form3.resources
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Resources.resources
+D:\New folder3\VB.NET Functions Collection\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbproj.GenerateResource.Cache
+D:\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe.config
+D:\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.exe
+D:\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.xml
+D:\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.pdb
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe.config
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.exe
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.xml
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.pdb
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.pdb
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.xml
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbprojResolveAssemblyReference.cache
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form1.resources
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form2.resources
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form3.resources
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Resources.resources
+E:\MKB_PC_BackUP\V B .Net\VB.NET Functions Collection and Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbproj.GenerateResource.Cache
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe.config
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.exe
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.xml
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.pdb
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.pdb
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.xml
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbprojResolveAssemblyReference.cache
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form1.resources
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form3.resources
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Resources.resources
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbproj.GenerateResource.Cache
+E:\MKB_PC_BackUP\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Login.resources
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\bin\Debug\PhotoStudio.exe.config
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.exe
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.xml
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.pdb
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbprojResolveAssemblyReference.cache
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form1.resources
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Form3.resources
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Login.resources
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.Resources.resources
+F:\V B .Net\My Project\PhotoStudio\PhotoStudio\obj\x86\Debug\PhotoStudio.vbproj.GenerateResource.Cache
